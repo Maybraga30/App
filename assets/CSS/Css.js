@@ -158,6 +158,21 @@ const styles = StyleSheet.create({
     home_view: {
         borderColor: 10,
     },
+    container6:{
+        paddingVertical: '2%',
+        alignItems: 'center',
+        justifyContent: 'center',
+    },
+    productImg:{
+        width: 175,
+        height: 175
+    },
+    productText:{
+        fontSize: 16
+    },
+    textProdutos:{
+        textAlign: 'center',
+    }
 });
 
 export {styles};
